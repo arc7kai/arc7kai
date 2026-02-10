@@ -2,17 +2,13 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="220"/>
-  
   <div style="margin-top: -170px; text-align: center;">
-    
     <h1 style="color: #E10600; font-size: 70px; margin-bottom: 0px; text-shadow: 3px 3px 0px #000000;">
       SHASHI PARTAP
     </h1>
-    
     <h3 style="color: #ffffff; font-weight: bold; margin-top: 5px; text-shadow: 2px 2px 4px #000000;">
       Backend Engineer &nbsp;|&nbsp; Java Architect &nbsp;|&nbsp; System Design
     </h3>
-    
   </div>
 </div>
 <br/><br/>
