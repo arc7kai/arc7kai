@@ -1,9 +1,21 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="200px"/>
-  <h1 style="color: #E10600; margin-top: -140px; position: absolute;">Shashi Partap</h1>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="220"/>
+  
+  <div style="margin-top: -170px; text-align: center;">
+    
+    <h1 style="color: #E10600; font-size: 70px; margin-bottom: 0px; text-shadow: 3px 3px 0px #000000;">
+      SHASHI PARTAP
+    </h1>
+    
+    <h3 style="color: #ffffff; font-weight: bold; margin-top: 5px; text-shadow: 2px 2px 4px #000000;">
+      Backend Engineer &nbsp;|&nbsp; Java Architect &nbsp;|&nbsp; System Design
+    </h3>
+    
+  </div>
 </div>
+<br/><br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFF19B&background=00000000&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Crafting+High-Performance+Java+Code;Optimizing+Database+Architecture;Solving+Complex+DSA+Problems" alt="Typing SVG" />
 </a>
