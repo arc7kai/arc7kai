@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,100:E10600&height=250&section=header&text=Shashi Partap&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20Architect%20%7C%20System%20Design&descAlignY=55&descSize=20&descColor=ffffff" alt="Header" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,100:E10600&height=250&section=header&text=Shashi Partap&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20Architect%20%7C%20System%20Design&descAlignY=55&descSize=20&descColor=ffffff&v=101" alt="Header" width="100%"/>
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFF19B&background=00000000&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Crafting+High-Performance+Java+Code;Optimizing+Database+Architecture;Solving+Complex+DSA+Problems" alt="Typing SVG" />
@@ -10,10 +12,10 @@
   <a href="https://github.com/arc7kai">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://www.linkedin.com/in/shashi-partap-3673b9298">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sashipartaps.p000.gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
