@@ -1,9 +1,9 @@
 <div align="center">
 
-[<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,100:E10600&height=250&section=header&text=Shashi Partap&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20Architect%20%7C%20System%20Design&descAlignY=55&descSize=20&descColor=ffffff&v=101" alt="Header" width="100%"/>
-</div>](https://github.com/arc7kai)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="200px"/>
+  <h1 style="color: #E10600; margin-top: -140px; position: absolute;">Shashi Partap</h1>
+</div>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFF19B&background=00000000&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Crafting+High-Performance+Java+Code;Optimizing+Database+Architecture;Solving+Complex+DSA+Problems" alt="Typing SVG" />
 </a>
